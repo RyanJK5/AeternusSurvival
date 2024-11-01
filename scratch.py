@@ -105,7 +105,7 @@ class Player(GameObject):
         self.slowed = False
         self.speed = 5 * TMR_SPEED / 1000
         self.invinc = INVINC_TIME
-        self.health = 1000
+        self.health = 20
 
     def update(self, dt):
         global TMR_SPEED

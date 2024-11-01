@@ -1,0 +1,2 @@
+# Aeternus Survival
+Aeternus Survival is a short but difficult survival challenge game. Players control a small circle under assault from thousands of projectiles and must dodge as many as possible to avoid losing the game!
